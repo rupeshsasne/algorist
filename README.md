@@ -3,6 +3,8 @@ Algorist
 
 Solutions to online judges problems.
 
+1. HackerEarth - https://github.com/rupeshsasne/algorist/tree/hackerearth
+
 License
 =======
     Copyright 2019 Rupesh Sasne.
