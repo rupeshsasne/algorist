@@ -1,7 +1,7 @@
 Algorist
 =======
 
-Solutions to online judges problems.
+Solutions to HackerEarth problems.
 
 License
 =======
