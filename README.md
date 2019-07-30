@@ -1,4 +1,4 @@
 Algorist
 =======
 
-Solutions to HackerEarth problems.
+Solutions to HackerRank problems.
