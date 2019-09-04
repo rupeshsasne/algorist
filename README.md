@@ -4,6 +4,7 @@ Algorist
 Solutions to online judges problems.
 
 1. HackerEarth - https://github.com/rupeshsasne/algorist/tree/hackerearth
+2. HackerRank - https://github.com/rupeshsasne/algorist/tree/hackerrank
 
 License
 =======
