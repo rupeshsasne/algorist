@@ -2,22 +2,6 @@ package com.radix2.hr.graph
 
 import java.util.*
 
-class Graph(val v: Int) {
-    private val bag = Array<MutableSet<Int>>(v) { mutableSetOf() }
-
-    var e: Int = 0
-        private set
-
-    fun addEdge(v: Int, w: Int) {
-        bag[v].add(w)
-        bag[w].add(v)
-
-        e++
-    }
-
-    fun adj(v: Int): Iterable<Int> = bag[v]
-}
-
 fun bfs(graph: Graph, source: Int): Sequence<Int> {
     val marked = BooleanArray(graph.v)
     val distTo = Array(graph.v) { 0 }
